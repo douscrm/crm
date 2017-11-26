@@ -1,0 +1,27 @@
+{
+  "name": "crm",
+  "version": "1.0.0",
+  "description": "CRM client implementation of DousCRM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douscrm/crm.git"
+  },
+  "keywords": [
+    "crm",
+    "node",
+    "douscrm"
+  ],
+  "author": "Juan Benavides",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/douscrm/crm/issues"
+  },
+  "homepage": "https://github.com/douscrm/crm#readme",
+  "dependencies": {
+    "douscrm": "^0.1.1"
+  }
+}
